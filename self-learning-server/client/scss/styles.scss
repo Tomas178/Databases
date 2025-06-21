@@ -1,0 +1,18 @@
+#app {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#display-movies {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+
+	.movie {
+		align-self: center;
+		justify-self: center;
+		margin: 25px 50px;
+	}
+}

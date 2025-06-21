@@ -1,0 +1,19 @@
+16. Write a query to paginate the list of movie titles, showing 10 movies at a time starting from the 21st.
+
+17. Retrieve the names of all directors whose movies have a rating higher than 7.5 and more than 500 votes using multiple subqueries.
+
+18. Combine the results of two queries: one fetching movies with titles containing 'Star' and another containing 'War' using UNION.
+
+19. Perform a transaction where you insert a new person, assign them as a director to a movie, then roll it back.
+
+20. Write a query that lists each person along with the total number of movies they have starred in.
+
+21. Retrieve the titles of all movies released in the 90s along with their ratings, using a combination of JOINs and subqueries.
+
+22. Perform a database migration to create a new table for genres, then associate it with existing movies via a foreign key.
+
+23. Write a query that fetches movies directed by people born after 1980, where the movie title includes 'Love', using JOIN and subquery.
+
+24. Remove all ratings lower than 5 from the ratings table within a transaction.
+
+25. In Node.js, perform a query to retrieve all movies with more than 500 votes, transform the result into a JSON array of objects containing title and rating, and sort it by rating descending.

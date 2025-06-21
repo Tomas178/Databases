@@ -1,0 +1,9 @@
+6. Find the distinct birth years of all people in the database.
+
+7. Count the total number of movies in the database.
+
+8. Retrieve the names of all people who were born in either 1970, 1980, or 1990.
+
+9. Retrieve the titles and ratings of all movies that have received more than 1000 votes, sorted by rating in descending order — and only include movies released after the year 2000.
+
+10. Insert a new movie into the movies table, then update its title, and finally delete it.

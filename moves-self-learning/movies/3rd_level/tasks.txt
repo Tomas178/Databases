@@ -1,0 +1,9 @@
+11. Find the titles of all movies directed by people born before 1960 using a subquery.
+
+12. List all movies and their corresponding ratings using a LEFT JOIN.
+
+13. Retrieve the names of people who both directed and starred in the same movie (self-join scenario).
+
+14. Write a query to combine the list of movie titles released before 1990 and after 2020 using UNION.
+
+15. Add a new column to the ratings table to track the number of user reviews, then rename it.
